@@ -37,7 +37,7 @@ This distribution provides a stable, lightweight Debian environment for Bobcat 3
 - **Username**: `root`
 - **Password**: `bobcat`
 
-### Web Dashboard
+### Web Dashboard ([Source Code](https://github.com/sicXnull/BobcatDashboard))
 - **URL**: `https://[device-ip]`
 - **Username**: `admin`
 - **Password**: `admin`
