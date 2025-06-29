@@ -9,11 +9,11 @@ This distribution provides a stable, lightweight Debian environment for Bobcat 3
 - **Kernel**: Linux 4.19.232
 - **Architecture**: Compatible with ARM-based Bobcat 300 hardware
 
-### Supported Models
-- Bobcat 300 G280
-- Bobcat 300 G285  
-- Bobcat 300 G290
-- Bobcat 300 G295
+### Supported Models and Download Links
+- [Bobcat 300 G280](https://github.com/sicXnull/Bobcat300-Debian/releases/download/1.0/BobcatDebian280.img.xz) 
+- [Bobcat 300 G285](https://github.com/sicXnull/Bobcat300-Debian/releases/download/1.0/BobcatDebian285.img.xz) 
+- [Bobcat 300 G290](https://github.com/sicXnull/Bobcat300-Debian/releases/download/1.0/BobcatDebian29X.img.xz)
+- [Bobcat 300 G295](https://github.com/sicXnull/Bobcat300-Debian/releases/download/1.0/BobcatDebian29X.img.xz)
 
 ### Feature Compatibility
 
