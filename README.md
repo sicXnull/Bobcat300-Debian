@@ -2,7 +2,7 @@
 A custom Debian 11 Bullseye distribution specifically built for Bobcat 300 miners with optimized kernel and configuration. 
 
 ## 📋 Overview
-This distribution provides a stable, lightweight Debian environment for Bobcat 300 miners with pre-configured settings and optimizations for mining operations. 
+This distribution provides a stable, lightweight Debian environment for Bobcat 300 miners with pre-configured settings and optimizations for mining operations. This can be ran via SD Card, keeping your stock firmware still available that is flashed to EMMC. 
 
 ### System Specifications
 - **Base OS**: Debian 11 Bullseye
